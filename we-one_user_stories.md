@@ -1,6 +1,6 @@
 # WeOne User Stories
 
-### Registration/Login Page
+## Registration/Login Page
 
 **Application Registration:**
 _As a user, I want to register with my username, email, and password to create my account access my application._
@@ -15,7 +15,7 @@ _As a user, I want to recieve a "unsuccessful Login" or "incorrect username/pass
 **Store User Data:**
 _As a user, I want my user details to be stored in local storage so that the data persist between different app sessions._
 
-### Home Page
+## Home Page
 
 **Welcome Message (Optional):** 
 _As a user, I want to recieve a welcome message upon logging in._
@@ -30,12 +30,14 @@ _As a user, I want a search bar to quickly search a contact from my chats._
 **Add a Contact:**
 _As a user, I want to add a new contact by clicking on a button and adding the user's contact number and/or email._
 
-### Chat Screen
+## Chat Screen
 _As a user, I want to be able to do the following when I open one of my chats with a contact;_
 
 - **User Chats:**
-As I want it to load all the recent messages exchanged with that contact._
+_As a user, I want it to load all the recent messages exchanged with that contact._
 
-- ****
+- **Previous Messages:**
 _As a user, I want to scroll up to see messages going back to the very first message we exchanged._
-_As a user, I _
+
+- **Send a Message:**
+_As a user, I want to write a message and send it in the chat._
