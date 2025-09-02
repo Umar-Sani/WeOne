@@ -1,5 +1,8 @@
 # WeOne User Stories
 
+**About This App:**
+This App is all about chatting with your friends and family and staying in touch with them. 
+
 ## Registration/Login Page
 
 **Application Registration:**
@@ -41,3 +44,9 @@ _As a user, I want to scroll up to see messages going back to the very first mes
 
 - **Send a Message:**
 _As a user, I want to write a message and send it in the chat._
+
+- **Delete a Message:**
+_As a user, when I want to delete one of my message from the chat, I hold the message and a confirmation message shows up asking "are you sure?" with a "delete" & "cancel" button._
+
+- **Message Info:**
+_As a user, I want to know the time of the message sent/recieved and if the message is seen by the other person in the chat.
