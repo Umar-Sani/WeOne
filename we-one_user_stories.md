@@ -52,6 +52,34 @@ _As a user, when I want to delete one of my message from the chat, I hold the me
 _As a user, I want to know the time of the message sent/recieved and if the message is seen by the other person in the chat._
 _As a user, I want to know when the message is successfully sent in the chat indicated by a checkmark_
 
+## Settings Menu
+
+**User Preferences:**
+_As a user, I want a settings menu where I can set my preferences and save it._
+
+**Categorized Sections:**
+_As a user, I want my settings menu to have categorized sections so I can easily find the setting I want._
+
+**Settings Control:**
+_As an Admin, I want to be able to enable and disable certain settings from users for security and compliance._
+
+## Settings Screen
+
+**Personal Info:**
+_As a user, I want to update my personal info like name, bio, profile picture, etc._
+
+**Dark Mode:**
+_As a user, I want to be able to enable and disable 'dark mode' in the settings screen._
+
+**Notifications Preferences:**
+_As a user, I want to be able to adjust my notification preferences according to my liking._
+
+**Security Information:**
+_As a user, I want to be able to update my email & password for security purposes._
+
+**Report Issue:**
+_As a user, I want to report an issue in the settings screen._
+
 ## Persistent Data
 
 **User Data:**
@@ -71,3 +99,13 @@ _As a user, I want to be able to send and recieve text messages in real-time._
 **Translation:**
 _As a user, I want to translate messages from one language to another._
 
+## Notifications
+
+**Sent a Message:**
+_As a user, I want to recieve a notification whenever someone sends a message._
+
+**Unread Messages:**
+_As a user, I want to recieve a notification if I have unread messages to check._
+
+**Software Updates:**
+_As a user, I want to recieve a notification if there are any app updates available._
