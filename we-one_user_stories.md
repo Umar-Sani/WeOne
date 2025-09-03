@@ -46,7 +46,28 @@ _As a user, I want to scroll up to see messages going back to the very first mes
 _As a user, I want to write a message and send it in the chat._
 
 - **Delete a Message:**
-_As a user, when I want to delete one of my message from the chat, I hold the message and a confirmation message shows up asking "are you sure?" with a "delete" & "cancel" button._
+_As a user, when I want to delete one of my message from the chat, I hold the message and a confirmation message shows up asking 'are you sure?' with a 'delete' & 'cancel' button._
 
 - **Message Info:**
 _As a user, I want to know the time of the message sent/recieved and if the message is seen by the other person in the chat._
+_As a user, I want to know when the message is successfully sent in the chat indicated by a checkmark_
+
+## Persistent Data
+
+**User Data:**
+_As a user, I want my data like login state to persist accross sessions so that I don't have to re-enter details everytime._
+
+**User Preferences:**
+_As a user, I want to save my preferences such as 'Dark Mode' so that the app remembers my settings._
+
+**User Activity:**
+_As an admin, I want user activity logs to persist so that I can track and analyze trends overtime._
+
+## External API
+
+**Real-time Communication:**
+_As a user, I want to be able to send and recieve text messages in real-time._
+
+**Translation:**
+_As a user, I want to translate messages from one language to another._
+
